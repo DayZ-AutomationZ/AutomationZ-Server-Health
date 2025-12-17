@@ -1,5 +1,5 @@
 # AutomationZ Server Health [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
-
+[![Dashboard_Server_Health.png](https://i.postimg.cc/c46CBGny/Dashboard_Server_Health.png)](https://postimg.cc/mtfTTqj8)
 AutomationZ Server Health is a lightweight, no-mod monitoring tool for game servers and other FTP-accessible servers.
 
 It continuously checks server log files, crash indicators, and restart behavior — and alerts you only when something actually goes wrong.
