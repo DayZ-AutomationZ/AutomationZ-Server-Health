@@ -1,4 +1,4 @@
-# AutomationZ Server Health
+# AutomationZ Server Health [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 AutomationZ Server Health is a lightweight, no-mod monitoring tool for game servers and other FTP-accessible servers.
 
